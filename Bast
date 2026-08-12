@@ -1,0 +1,1 @@
+mkdir assets, dataset, database, models, embeddings, logs, reports, config, src, tests; mkdir src/ui, src/database, src/ai, src/attendance, src/preprocessing, src/utils; mkdir src/ai/detection, src/ai/alignment, src/ai/embedding, src/ai/matching
